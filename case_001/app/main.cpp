@@ -1,5 +1,3 @@
-#include <typeinfo>
-
 import hello;
 
 int main()
